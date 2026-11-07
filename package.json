@@ -1,0 +1,1 @@
+{"dependencies":{"dotenv":"^16.4.5","livekit-server-sdk":"^2.11.0"},"description":"Tiny LiveKit token server for the walkie-talkie map app prototype — mints short-lived voice-room tokens so the app never holds the API secret.","engines":{"node":">=18"},"main":"server.js","name":"walkie-talkie-token-server","private":true,"scripts":{"start":"node server.js"},"version":"0.1.0"}
